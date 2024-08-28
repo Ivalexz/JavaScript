@@ -1,6 +1,6 @@
 // ======================task7=====================
 // const usersGb = parseFloat(prompt('Вкажіть обсяг флешки у ГБ: '));
-// const gb =1024;
+// const gb = 1024;
 // const mb = 820;
 // const formula = Math.floor((usersGb*gb)/mb);
 // console.log(` Кількість файлів розміром ${mb} МБ, що вмістяться на флешку: ${formula}`);

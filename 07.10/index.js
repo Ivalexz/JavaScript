@@ -70,9 +70,10 @@ button5.addEventListener('click', () => {
 
 trueAnswer6.addEventListener('input', () => {
     count++
-    h2.innerHTML = `Результат: ${count} з 6`
 })
+
 button6.addEventListener('click', () => {
     answer.classList.remove('hide')
     form6.classList.add('hide')
+    h2.innerHTML = `Результат: ${count} з 6`
 })
